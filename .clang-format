@@ -1,0 +1,11 @@
+IndentWidth: 4
+UseTab: Never
+ColumnLimit: 0
+NamespaceIndentation: All
+IndentPPDirectives: AfterHash
+AlignConsecutiveDeclarations: true
+AlignConsecutiveAssignments: true
+AccessModifierOffset: -4
+MaxEmptyLinesToKeep: 1
+SortIncludes: true
+FixNamespaceComments: false
