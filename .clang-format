@@ -9,3 +9,4 @@ AccessModifierOffset: -4
 MaxEmptyLinesToKeep: 1
 SortIncludes: true
 FixNamespaceComments: false
+AlwaysBreakTemplateDeclarations: No
